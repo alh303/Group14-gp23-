@@ -39,9 +39,6 @@ This command will start the music player and begin playing the specified file.
 
 Note: Replace "C:/Users/lecre/MusicPlayerProject/app/music/Marvin Gaye - Whats Going On.wav" with the path to your own audio file if you want to play a different song.
 
-4. Interactive Commands (Optional)
-If your music player has interactive features like play, pause, stop, etc., you can enter those commands after running the player. For example, if your program supports commands like "pause" or "stop", it might look like this:
-
 
 $ ./gradlew run --args="play /path/to/music/file.wav"
 Then you can interact with it using the terminal.
