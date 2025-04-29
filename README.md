@@ -19,8 +19,8 @@ Clone the repository to your local machine:
 git clone https://github.com/alh303/Group14-gp23-.git
 Change to the project directory:
 
-
 cd Group14-gp23-
+
 2. Build the Project
 Once you have the project on your local machine, you'll need to build it using Gradle. From the terminal, run the following command:
 
@@ -52,6 +52,6 @@ Invalid Audio Path: Ensure that the file path to the audio file is correct. If y
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+   
 
 
